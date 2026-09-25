@@ -12,6 +12,8 @@ Print out Apriltag ID's 1 and 2 from [the 2026 PDF](https://firstfrc.blob.core.w
 
 Plug in a USB camera to the 3rd (outermost) USB3 port.
 
+<img width="2231" height="1435" alt="image" src="https://github.com/user-attachments/assets/976495cb-6831-428a-a291-d2d0726191ba" />
+
 ## Setup
 
 Power on the SystemCore, and wait for it to boot up. 
