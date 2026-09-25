@@ -1,6 +1,6 @@
-# System Core Demos 
+# SystemCore Demos 
 
-This repository contains source code for the basic demos of an alpha-release System Core at the fall 2026 Illinois Mentor Town Hall Meetings
+This repository contains source code for the basic demos of an alpha-release SystemCore at the fall 2026 Illinois Mentor Town Hall Meetings
 
 # Running the Demos
 
